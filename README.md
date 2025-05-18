@@ -1,4 +1,3 @@
-```markdown
 # CyFutureEmotionDetection 💬💡
 
 CyFutureEmotionDetection is a deep learning-based text classification project that detects emotions from short English messages using TensorFlow and NLP preprocessing. This project is ideal for enhancing conversational agents, mental health platforms, or sentiment-aware applications.
@@ -16,16 +15,12 @@ This model can classify a given text message into one of six emotions:
 
 ## 📁 Project Structure
 
-```
-
 CyFutureEmotionDetection/
 │
 ├── CyFutureEmotionDetection.ipynb      # Jupyter Notebook containing the full pipeline
 ├── emotion\_model.h5                    # Saved trained model
 ├── tokenizer.pickle                    # Saved tokenizer for input preprocessing
 ├── README.md                           # Project documentation
-
-````
 
 ## 📦 Features
 
@@ -47,7 +42,6 @@ CyFutureEmotionDetection/
 
 ### 1. Install Dependencies
 
-```bash
 pip install tensorflow pandas scikit-learn numpy matplotlib seaborn
 ````
 
