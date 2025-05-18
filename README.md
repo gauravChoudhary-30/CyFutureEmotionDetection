@@ -43,7 +43,6 @@ CyFutureEmotionDetection/
 ### 1. Install Dependencies
 
 pip install tensorflow pandas scikit-learn numpy matplotlib seaborn
-````
 
 ### 2. Run the Notebook
 
@@ -53,10 +52,8 @@ Open and execute `CyFutureEmotionDetection.ipynb` in [Jupyter Notebook](https://
 
 Use the `predict_emotion` function to test any message:
 
-```python
 predict_emotion("I can't believe I won!", tokenizer, model)
 # Output: ['surprise']
-```
 
 ## 📊 Model Performance
 
@@ -92,22 +89,10 @@ predict_emotion("I can't believe I won!", tokenizer, model)
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
 ### 🤝 Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements or new features.
 
----
-
 ### 🔗 Connect
 
-Built with ❤️ by \[Your Name].
-For questions or collaborations, reach out via [LinkedIn](#) or [Email](#).
-
-```
-
----
-
-Would you like me to generate a minimal logo/banner image for your repo as well?
-```
+Built with ❤️ by \[Gaurav Choudhary].
